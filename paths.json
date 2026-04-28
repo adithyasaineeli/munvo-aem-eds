@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/munvo-aem-eds/:/"
+    "/content/aem-eds-ue/:/"
   ],
   "includes": [
-    "/content/munvo-aem-eds/"
+    "/content/aem-eds-ue/"
   ]
 }
