@@ -15,6 +15,22 @@
         "label": "Description"
       },
       {
+        "component": "select",
+        "name": "template",
+        "label": "Template",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Default",
+            "value": ""
+          },
+          {
+            "name": "Campaign",
+            "value": "campaign"
+          }
+        ]
+      },
+      {
         "component": "text",
         "valueType": "string",
         "name": "keywords",
