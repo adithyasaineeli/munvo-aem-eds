@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p29208-e1239610.adobeaemcloud.com/bin/franklin.delivery/adithyasaineeli/munvo-aem-eds/main"
+    url: "https://author-p29208-e1239610.adobeaemcloud.com/bin/franklin.delivery/ClientSpectrum/munvo-aem-eds/main"
     type: "markup"
     suffix: ".html"
